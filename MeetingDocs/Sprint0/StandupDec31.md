@@ -11,13 +11,17 @@
  - redefining the spec for the MVP
 
 - Ben
+ - N/A
 
 - Drew
+ - N/A
 
 - Carter
+ - N/A
 
 ## Challenges
 
 ## New Tasks
-- spec needs to be explicitly defined for MCP
+- spec needs to be explicitly defined for MVP
+
 ## Additional Notes
