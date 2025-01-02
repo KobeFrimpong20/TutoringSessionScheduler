@@ -30,3 +30,41 @@ end
 A <-->|"REST API"| B
 B <-->|SQLAlchemy| C
 ```
+
+#### ER Diagram 
+
+```mermaid
+---
+title: Database ERD
+---
+erDiagram
+    User {
+        int user_id PK
+        string username
+        string password_hash
+        string role FK
+    }
+
+    Role {
+        int role_cd PK
+        string name
+    }
+
+    Meeting {
+        int meeting_id PK
+        int start_time
+        int end_time 
+        string instructor
+        string[] students
+    }
+
+    Schedule {
+        int schedule_id PK
+        Meeting[] meetings
+        string owner FK
+    }
+
+    User ||--|{ Role : HAS
+    User ||--|| Schedule : OWNS
+    Schedule ||--|{ Meeting : Contains
+```
