@@ -3,21 +3,21 @@
 ## Updates 
 
 - **General**
- - Sprint Meetings time needs to be rediscussed 
- - MVP needs to be demo ready by Sprint 2 
+  - Sprint Meetings time needs to be rediscussed 
+  - MVP needs to be demo ready by Sprint 2 
 
 - Kobe
- - working on the Databse Design Document and corresponding ER Diagram
- - redefining the spec for the MVP
+  - working on the Databse Design Document and corresponding ER Diagram
+  - redefining the spec for the MVP
 
 - Ben
- - N/A
+  - N/A
 
 - Drew
- - N/A
+  - N/A
 
 - Carter
- - N/A
+  - N/A
 
 ## Challenges
 
