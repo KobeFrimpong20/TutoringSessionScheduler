@@ -3,17 +3,17 @@
 ## Updates
 
 - General
- - 1 month confirmed for new MVP
+  - 1 month confirmed for new MVP
 
 - Kobe
- - Finished the Databse Design 
- - ER Diagram 
+  - Finished the Databse Design 
+  - ER Diagram 
 
 - Ben 
- - N/A 
+  - N/A 
 
 - Drew
- - N/A
+  - N/A
 
 ## Challenges
 
